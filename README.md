@@ -1,4 +1,5 @@
 <h1>Hello, I'm 0tuedon ✌🏼</h1>
+<h3> LIFE IS HARD, GOING TO BREAK IN </h3>
 
 - 🌱 I’m currently Experienced react and NodeJS
 - 👯 I’m looking to collaborate on any front end project (HTML, CSS, SASS, React.js, Node.js)
